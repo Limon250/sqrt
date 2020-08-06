@@ -1,0 +1,13 @@
+D:\Programms\csharp\Sqrt\bin\Debug\netcoreapp3.1\Sqrt.exe
+D:\Programms\csharp\Sqrt\bin\Debug\netcoreapp3.1\Sqrt.deps.json
+D:\Programms\csharp\Sqrt\bin\Debug\netcoreapp3.1\Sqrt.runtimeconfig.json
+D:\Programms\csharp\Sqrt\bin\Debug\netcoreapp3.1\Sqrt.runtimeconfig.dev.json
+D:\Programms\csharp\Sqrt\bin\Debug\netcoreapp3.1\Sqrt.dll
+D:\Programms\csharp\Sqrt\bin\Debug\netcoreapp3.1\Sqrt.pdb
+D:\Programms\csharp\Sqrt\obj\Debug\netcoreapp3.1\Sqrt.csprojAssemblyReference.cache
+D:\Programms\csharp\Sqrt\obj\Debug\netcoreapp3.1\Sqrt.AssemblyInfoInputs.cache
+D:\Programms\csharp\Sqrt\obj\Debug\netcoreapp3.1\Sqrt.AssemblyInfo.cs
+D:\Programms\csharp\Sqrt\obj\Debug\netcoreapp3.1\Sqrt.csproj.CoreCompileInputs.cache
+D:\Programms\csharp\Sqrt\obj\Debug\netcoreapp3.1\Sqrt.dll
+D:\Programms\csharp\Sqrt\obj\Debug\netcoreapp3.1\Sqrt.pdb
+D:\Programms\csharp\Sqrt\obj\Debug\netcoreapp3.1\Sqrt.genruntimeconfig.cache
